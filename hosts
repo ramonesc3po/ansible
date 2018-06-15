@@ -1,0 +1,4 @@
+#[ansible-manager]
+#10.10.10.140 ansible_user="ramones" ansible_ssh_private_key="/root/.ssh/ansible-manager.key"
+[localhost]
+localhost ansible_user="ramonsalado" ansible_ssh_private_key="/home/ramonsalado/.ssh/ramonsalado.key"
